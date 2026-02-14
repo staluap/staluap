@@ -8,7 +8,7 @@ Soy estudiante de FP en Desarrollo de Aplicaciones Web. Vengo del intermitente m
 
 
 ## Aprendiendo
-![My Skills](https://skillicons.dev/icons?i=angular,godot&theme=light)
+![My Skills](https://skillicons.dev/icons?i=react,godot&theme=light)
 
 
 ## Sobre mí
@@ -23,3 +23,4 @@ Soy estudiante de FP en Desarrollo de Aplicaciones Web. Vengo del intermitente m
 
 ## Contacto
 [LinkedIn](https://www.linkedin.com/in/paula-serrano-torrecillas/) &nbsp; | &nbsp; paulaserranotorrecillas@gmail.com
+
